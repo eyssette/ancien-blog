@@ -1,9 +1,10 @@
 ---
 title: Test pour le blog
 author: Cédric Eyssette
-date: 3020-06-21 12:00:00 +0200
+date: 2020-06-21 12:00:00 +0200
 categories: [Blogging, Demo]
 tags: [typography]
+published: false
 ---
 
 # Test de titre
