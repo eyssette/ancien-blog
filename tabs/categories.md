@@ -1,5 +1,5 @@
 ---
-title: Categories
+title: Catégories
 
 # All the Categories of posts
 # v2.0
@@ -55,7 +55,7 @@ title: Categories
         <span class="text-muted small font-weight-light">
           {% if sub_categories_size > 0 %}
             {{ sub_categories_size }}
-            {% if sub_categories_size > 1 %}categories{% else %}category{% endif %},
+            {% if sub_categories_size > 1 %}catégories{% else %}catégorie{% endif %},
           {% endif %}
             {{ top_posts_size }}
             post{% if top_posts_size > 1 %}s{% endif %}
