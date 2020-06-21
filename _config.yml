@@ -33,10 +33,9 @@ social:
   email: cedric.eyssette@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://www.facebook.com/cedric.eyssette
     - https://twitter.com/Cedric_Eyssette      # change to your twitter homepage
     - https://github.com/eyssette       # change to your github homepage
-    # Uncomment below to add more social links
-    - https://www.facebook.com/cedric.eyssette
     - https://www.linkedin.com/in/eyssette
 
 google_site_verification: Ah9pcRu084c7CGwuN29Ui8Z3DFGOcy_q91pnT7p1T1E # change to your verification string
