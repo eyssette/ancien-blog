@@ -10,10 +10,4 @@ tags: [typography]
 
 Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. 
 
-# Test de titre
-
-Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. 
-
-# Test de titre
-
-Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. Test de paragraphe. 
+![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/debating/definition-mensonge.svg)
