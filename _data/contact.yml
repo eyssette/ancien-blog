@@ -6,7 +6,7 @@
 
 -
   type : facebook
-  icon: 'fa fa-facebook'
+  icon: 'fab fa-facebook-f'
   url: 'https://www.facebook.com/cedric.eyssette'
 -
   type: github
