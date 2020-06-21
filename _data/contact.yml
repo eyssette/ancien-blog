@@ -5,6 +5,9 @@
 #  MIT Licensed
 
 -
+  type : facebook
+  icon: 'fa-facebook'
+-
   type: github
   icon: 'fab fa-github-alt'
 -
