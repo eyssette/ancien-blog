@@ -13,7 +13,7 @@ panel:
 post:
   relate_posts: "À  lire également"
   button:
-    next: "Plus récents"
-    previous: "Plus anciens"
+    next: "Article suivant"
+    previous: "Article précédent"
 
 search_hint: "Rechercher"   # text show on search bar
