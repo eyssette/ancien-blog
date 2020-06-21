@@ -12,7 +12,13 @@
         {% if item.url %}
         <span>
           <a href="{{ site.baseurl }}{{ item.url | remove: '.html'}}">
-            {{ item.label }}
+            {{% if item.label == "home" %}}
+              {{Accueil}}
+            {{% if item.label == "categories" %}}
+              {{Catégories}}
+            {{% else %}}
+              {{item.label}}
+            {% endif %}
           </a>
         </span>
         {% else %}
