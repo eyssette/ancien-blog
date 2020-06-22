@@ -6,7 +6,7 @@ categories: [P&eacute;dagogie_&_Ressources_pour_les_coll&egrave;gues]
 tags: [ancien_blog, dissertation]
 ---
 
-À quoi bon suivre les conseils méthodologiques de ces enseignants ? Certes, mais quand on veut exceller dans le ratage de dissertation, il y a tout de même quelques principes à suivre !
+À quoi bon suivre les conseils méthodologiques de ses enseignants ? Certes, mais quand on veut exceller dans le ratage de dissertation, il y a tout de même quelques principes à suivre !
 
 ## Sources d'inspiration
 
