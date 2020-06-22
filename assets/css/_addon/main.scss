@@ -632,6 +632,12 @@ h1 {
   font-size: 1.8rem;
 }
 
+#post-wrapper h1{
+  color:#74B2F3;
+  padding-bottom:5px;
+  border-bottom:1px solid #5E829C;
+}
+
 h2 {
   @extend %heading;
   @extend %section;
@@ -639,6 +645,7 @@ h2 {
   font-size: 1.4rem;
   margin-bottom: 1.5rem;
   margin-top:-2rem;
+  color:#6FA3D4; 
 }
 
 h3 {
@@ -647,6 +654,7 @@ h3 {
   @extend %anchor;
   font-size: 1.25rem;
   margin-bottom: 1.3rem;
+  color:#5E829C;
 }
 
 h4 {
@@ -684,8 +692,16 @@ blockquote {
   }
 }
 
+.post-content p, .post-content ul li, .post-content ol li, .post-content h2, .post-content h3, .post-content h4, .post-content h5 {
+  text-align:justify;
+}
+
+
 @media only screen and (max-device-width:480px) {
   blockquote {
+    text-align:left;
+  }
+  .post-content p, .post-content ul li, .post-content ol li, .post-content h2, .post-content h3, .post-content h4, .post-content h5 {
     text-align:left;
   }
 }
