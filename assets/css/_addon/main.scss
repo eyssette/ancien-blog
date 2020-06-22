@@ -632,11 +632,17 @@ h1 {
   font-size: 1.8rem;
 }
 
-#post-wrapper h1{
+html[mode=dark] #post-wrapper h1{
   color:#74B2F3;
   padding-bottom:5px;
   border-bottom:1px solid #5E829C;
 }
+html[mode=light] #post-wrapper h1 {
+  color:#2A4A58;
+  padding-bottom:5px;
+  border-bottom:1px solid #2A4A58;
+}
+
 
 h2 {
   @extend %heading;
@@ -645,7 +651,12 @@ h2 {
   font-size: 1.4rem;
   margin-bottom: 1.5rem;
   margin-top:-2rem;
+}
+html[mode=dark] h2 {
   color:#6FA3D4; 
+}
+html[mode=light] h2 {
+  color:#2A4A58;
 }
 
 h3 {
@@ -654,7 +665,12 @@ h3 {
   @extend %anchor;
   font-size: 1.25rem;
   margin-bottom: 1.3rem;
+}
+html[mode=dark] h3 {
   color:#5E829C;
+}
+html[mode=light] h3 {
+  color:#395868;
 }
 
 h4 {
