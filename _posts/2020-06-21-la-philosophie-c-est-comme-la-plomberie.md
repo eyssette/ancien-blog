@@ -38,7 +38,8 @@ Midgley, Mary (1996). _Utopias, Dolphins and Computers: Problems in Philosophica
 >Souvent nous ne remarquons pas consciemment ce dysfonctionnement qui nous échappe […]. Il est bien connu qu'il est difficile de voir des défauts dans les propres motifs qui nous animent […] Mais il est d'une certaine manière encore plus difficile – et encore moins naturel – de tourner notre attention vers ce qui pourrait poser problème dans la structure de notre pensée. L'attention naturellement se porte vers l'extérieur sur les problèmes qui se posent dans le monde lui-même. Appliquer sur la pensée une tension telle qu'elle va se replier sur elle-même et porter un regard critique sur elle-même… est pour le moins difficile. […]
 >
 >Cependant, quand la situation devient sérieuse, nous devons le faire. Nous devons alors, d'une manière ou d'une autre, réajuster nos concepts sous-jacents ; nous devons réviser l'ensemble des hypothèses qui constituent l'arrière-plan de ce que nous avons appris […] afin de trouver la source du problème.
-La philosophie existe pour répondre à ce besoin de réajuster nos concepts. »
+>
+>La philosophie existe pour répondre à ce besoin de réajuster nos concepts. »
 
 Midgley, Mary (1996). _Utopias, Dolphins and Computers: Problems in Philosophical Plumbing_, Routledge, p.1-2
 
