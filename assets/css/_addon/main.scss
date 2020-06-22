@@ -224,6 +224,18 @@ $sidebar-display: "sidebar-display";
   flex-grow: 1;
 }
 
+div#precisions {
+  p {
+    color:rgba(255,255,255,0.5);
+  }
+  p:first-child{
+    margin-top:1.5em;
+  }
+  p:nth-child(2){
+    margin-top:-1em;
+  }
+}
+
 #profile-wrapper {
   margin-top: 2rem;
 }
