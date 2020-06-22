@@ -652,14 +652,23 @@ h5 {
 
 blockquote {
   border-left: 5px solid var(--blockquote-border-color);
-  padding-left: 1.7rem;
+  padding-left: 1.2rem;
   margin-top: 1rem;
-  text-align: justify;
+  text-align:justify;
   color: var(--blockquote-text-color);
   .post-content & {
     a {
       color: var(--link-color);
     }
+  }
+  p:not(:first-child) {
+    margin-top:-0.8rem;
+  }
+}
+
+@media only screen and (max-device-width:480px) {
+  blockquote {
+    text-align:left;
   }
 }
 
