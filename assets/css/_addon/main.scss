@@ -241,6 +241,7 @@ div#precisions {
 }
 
 #avatar {
+  margin:auto;
   >a {
     display: block;
     width: 6rem;
@@ -1397,7 +1398,6 @@ table {
     }
 
     .profile-text {
-      margin-left: .5rem;
       /* .d-flex */
       display: -webkit-box!important;
       display: -ms-flexbox!important;
@@ -1409,7 +1409,7 @@ table {
       -ms-flex-line-pack: center!important;
       align-content: center!important;
       >div {
-        text-align: left !important;
+        text-align: center !important;
         width: 100%;
       }
     }
