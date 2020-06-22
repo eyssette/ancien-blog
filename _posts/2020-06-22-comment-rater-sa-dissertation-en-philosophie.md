@@ -27,7 +27,7 @@ Si vraiment vous n’arrivez pas à suivre cette stratégie, écrivez simplement
 
 Ne cherchez surtout pas à distinguer plusieurs sens des termes du sujet. Profitez de ces belles généralités vagues qui sonnent si bien et avec lesquelles tout le monde est d'accord (ou presque) !
 
-Ne tombez pas dans le piège classique qui consisterait à vouloir définir les notions : on sait bien sûr de quoi on parle ! À quoi bon perdre du temps à se poser une question … à propos d'une question !!!! Franchement, ce serait ridicule ! D’ailleurs vous êtes déjà en train de répondre, vous faites bien.
+Ne tombez pas dans le piège classique qui consisterait à vouloir définir les notions : on sait bien sûr de quoi on parle ! À quoi bon perdre du temps à se poser une question … à propos d'une question !!!! Franchement, ce serait ridicule ! D’ailleurs vous êtes déjà en train de répondre, vous faites bien.
 
 ### – Rater la problématisation du sujet
 
@@ -52,9 +52,9 @@ Surtout pas de transitions, ça gacherait la fulgurance de la pensée : il faut 
 
 Vous avez peut-être perdu votre temps à suivre les étapes précédents, alors que vous auriez pu tout simplement déjà … rédiger la dissertation !!!! Dépêchez-vous ! Il ne faudrait pas avoir à rester plus d'une heure sur place.
 
-N’oubliez pas d’écrire au fil de la plume, sans vraiment réfléchir à ce que vous écrivez : vite, vite vite ! Écrivez tout d'un bloc, sans jamais sauter de ligne ou faire des paragraphes ! Il faut que l'ensemble donne l'impression de quelque chose de très compact et confus : la philosophie c'est pas clair !
+N’oubliez pas d’écrire au fil de la plume, sans vraiment réfléchir à ce que vous écrivez : vite, vite vite ! Écrivez tout d'un bloc, sans jamais sauter de ligne ou faire des paragraphes ! Il faut que l'ensemble donne l'impression de quelque chose de très compact et confus : la philosophie c'est pas clair !
 
-L'orthographe, la syntaxe importent peu : ce n’est pas parce qu'il manque un "s" ou un accent qu'on ne va pas vous comprendre !
+L'orthographe, la syntaxe importent peu : ce n’est pas parce qu'il manque un "s" ou un accent qu'on ne va pas vous comprendre !
 
 Ne posez jamais de question. Il faut être efficace : alignez simplement vos idées les unes à la suite des autres. Mettez des mots de liaison au hasard : un "donc" par ci, un "mais" par là, un autre "donc", sans trop vous soucier des liens logiques entre les idées.
 
