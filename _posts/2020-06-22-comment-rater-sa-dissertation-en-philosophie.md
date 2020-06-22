@@ -3,7 +3,7 @@ title: "Comment rater sa dissertation en philosophie ?"
 author: Cédric Eyssette
 date: 2020-06-22 22:55:00 +0100
 categories: [P&eacute;dagogie_&_Ressources_pour_les_coll&egrave;gues]
-tags: [ancien_blog]
+tags: [ancien_blog, dissertation]
 ---
 
 À quoi bon suivre les conseils méthodologiques de ses enseignants ? Certes, mais quand on veut exceller dans le ratage de dissertation, il y a tout de même quelques principes à suivre !
