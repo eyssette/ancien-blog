@@ -18,6 +18,8 @@ layout: compress
 {% capture prefer_mode %}
   {% if site.theme_mode != "dual" %}
     mode="{{ site.theme_mode }}"
+  {% else %}
+    mode="dark"
   {% endif %}
 {% endcapture %}
 
