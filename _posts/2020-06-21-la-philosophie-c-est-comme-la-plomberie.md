@@ -23,7 +23,7 @@ When things do go badly, however, we do have to do this. We must then somehow re
 >
 >That need to readjust our concepts is the need that philosophy exists to satisfy. »
 
-Midgley, Mary (1996). _Utopias, Dolphins and Computers: Problems in Philosophical Plumbing_, Routledge, p.1-2
+Midgley, Mary (1996). _Utopias, Dolphins and Computers: Problems in Philosophical Plumbing_, Routledge, p.1&#8209;2
 
 ## Proposition de traduction (non professionnelle)
 
@@ -35,13 +35,13 @@ Midgley, Mary (1996). _Utopias, Dolphins and Computers: Problems in Philosophica
 >
 >C'est ici cependant que nous rencontrons la première différence frappante entre les deux cas. Pour ce qui est de la plomberie, tout le monde accepte ce besoin de spécialistes qualifiés. En ce qui concerne la philosophie, beaucoup de personnes […] non seulement doutent de l'existence d'un tel besoin, mais elles sont souvent sceptiques quant à l'existence même de ce système sous-jacent. Il est beaucoup plus profondément caché. Quand les concepts qui structurent notre existence fonctionnent mal, ils ne dégoulinent pas ostensiblement à travers les plafonds, ils n'inondent pas le plancher de la cuisine. Ils ne font que fausser et obstruer discrètement notre pensée.
 >
->Souvent nous ne remarquons pas consciemment ce dysfonctionnement qui nous échappe […]. Il est bien connu qu'il est difficile de voir des défauts dans les propres motifs qui nous animent […] Mais il est d'une certaine manière encore plus difficile – et encore moins naturel – de tourner notre attention vers ce qui pourrait poser problème dans la structure de notre pensée. L'attention naturellement se porte vers l'extérieur sur les problèmes qui se posent dans le monde lui-même. Appliquer sur la pensée une tension telle qu'elle va se replier sur elle-même et porter un regard critique sur elle-même… est pour le moins difficile. […]
+>Souvent nous ne remarquons pas consciemment ce dysfonctionnement insensible […]. Il est bien connu qu'il est difficile de voir des défauts dans les propres motifs qui nous animent […] Mais il est d'une certaine manière encore plus difficile – et encore moins naturel – de tourner notre attention vers ce qui pourrait poser problème dans la structure de notre pensée. L'attention naturellement se porte vers l'extérieur sur les problèmes qui se posent dans le monde lui-même. Appliquer sur la pensée une tension telle qu'elle va se replier sur elle-même et porter un regard critique sur elle-même… est pour le moins difficile. […]
 >
 >Cependant, quand la situation devient sérieuse, nous devons le faire. Nous devons alors, d'une manière ou d'une autre, réajuster nos concepts sous-jacents ; nous devons réviser l'ensemble des hypothèses qui constituent l'arrière-plan de ce que nous avons appris […] afin de trouver la source du problème.
 >
 >La philosophie existe pour répondre à ce besoin de réajuster nos concepts. »
 
-Midgley, Mary (1996). _Utopias, Dolphins and Computers: Problems in Philosophical Plumbing_, Routledge, p.1-2
+Midgley, Mary (1996). _Utopias, Dolphins and Computers: Problems in Philosophical Plumbing_, Routledge, p.1&#8209;2
 
 
 
