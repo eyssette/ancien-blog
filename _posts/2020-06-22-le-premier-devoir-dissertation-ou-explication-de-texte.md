@@ -60,4 +60,4 @@ Bien sûr, je ne dis pas que c'est impossible de faire un tel travail, et j'avou
 
 ## Discussion
 
-Si vous avez envie de justifier le choix de l'explication de texte, plutôt que celui de la dissertation, ou bien des remarques critiques, des questions, n'hésitez pas à discuter avec moi de ce sujet (facebook, twitter, mail).
+Si vous avez envie de justifier le choix de l'explication de texte, plutôt que celui de la dissertation, ou bien des remarques critiques, des questions, n'hésitez pas à discuter avec moi de ce sujet ([facebook](https://www.facebook.com/cedric.eyssette/posts/10157527285308042), [twitter](https://twitter.com/Cedric_Eyssette/status/1275109722534920192), mail).

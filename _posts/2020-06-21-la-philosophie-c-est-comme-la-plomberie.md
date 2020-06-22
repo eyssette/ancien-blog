@@ -43,5 +43,8 @@ Midgley, Mary (1996). _Utopias, Dolphins and Computers: Problems in Philosophica
 
 Midgley, Mary (1996). _Utopias, Dolphins and Computers: Problems in Philosophical Plumbing_, Routledge, p.1&#8209;2
 
+## Discussion
+
+Si vous avez envie de discuter de ce texte, ou si vous avez une suggestion d'amélioration de la traduction, n'hésitez pas à discuter avec moi de ce sujet ([facebook](https://www.facebook.com/cedric.eyssette/posts/10157527282878042), [twitter](https://twitter.com/Cedric_Eyssette/status/1275109276302934017?cxt=HHwWgoC8_bDIjLIjAAAA), mail).
 
 
