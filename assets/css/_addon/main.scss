@@ -624,8 +624,8 @@ h2 {
   @extend %section;
   @extend %anchor;
   font-size: 1.4rem;
-  margin-top: 1rem;
   margin-bottom: 1.5rem;
+  margin-top:-2rem;
 }
 
 h3 {
@@ -633,7 +633,6 @@ h3 {
   @extend %section;
   @extend %anchor;
   font-size: 1.25rem;
-  margin-top: 1rem;
   margin-bottom: 1.3rem;
 }
 
@@ -642,7 +641,6 @@ h4 {
   @extend %section;
   @extend %anchor;
   font-size: 1.15rem;
-  margin-top: 1rem;
   margin-bottom: 1rem;
 }
 
@@ -658,6 +656,7 @@ blockquote {
   padding-left: 1.2rem;
   margin-top: 1rem;
   text-align:justify;
+  line-height: 1.7rem;
   color: var(--blockquote-text-color);
   .post-content & {
     a {
@@ -666,6 +665,9 @@ blockquote {
   }
   p:not(:first-child) {
     margin-top:-0.8rem;
+  }
+  p:first-child{
+    margin-top:1.3rem;
   }
 }
 
