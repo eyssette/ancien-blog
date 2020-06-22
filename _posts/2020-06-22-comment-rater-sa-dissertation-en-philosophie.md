@@ -1,7 +1,7 @@
 ---
 title: "Comment rater sa dissertation en philosophie ?"
 author: Cédric Eyssette
-date: 2020-06-22 22:55:00 +0100
+date: 2020-06-22 22:55:00 +0200
 categories: [P&eacute;dagogie_&_Ressources_pour_les_coll&egrave;gues]
 tags: [ancien_blog, dissertation]
 ---
