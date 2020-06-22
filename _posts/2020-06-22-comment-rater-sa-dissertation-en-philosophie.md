@@ -60,13 +60,13 @@ Ne posez jamais de question. Il faut être efficace : alignez simplement vos id�
 
 Ne cherchez pas à être clair ou à être simple dans votre formulation : la philo c'est compliqué, écrivez compliqué. Et si le prof ne peut pas suivre votre raisonnement, c’est qu’il ne doit pas être très futé.
 
-### – L’introduction
+### – Rater l’introduction
 
 Commencez par “De tous temps les hommes se sont posés cette question très importante”, placez quelques autres belles généralités.
 Évitez toute analyse du sujet. Restez-en à quelques synonymes bien choisis (« la liberté, c'est être libre », vous vous souvenez !).
 Ne dégagez surtout pas le problème que pose le sujet, allez directement au plan : « Dans la première partie, on verra que oui, puis on verra que non, et on fera une conclusion ». C'est clair et net comme ça !
 
-### – Le développement
+### – Rater le développement
 
 Pourquoi appeler cette étape un “développement” ? Deux-trois pages suffiront amplement. Ne cherchez surtout pas à être précis. N’essayez pas de construire un raisonnement avec des arguments, des réponses aux objections : il faut simplement donner votre opinion personnelle et quelques exemples. On verra bien que vous avez raison !
 
@@ -76,7 +76,7 @@ Ne vous appuyez pas sur des références philosophiques. C’est votre copie, c�
 
 Si vous avez construit un plan au brouillon (erreur de débutant·e…), essayez de ne pas trop le suivre pour laisser place à votre inspiration. N’essayez pas de bien faire le lien avec le sujet, et de montrer comment vous répondez à la question posée, le professeur trouvera bien le lien ! N’oubliez pas de négliger les transitions, elles sont inutiles : mettez juste "Puis", et enchaînez.
 
-### – La conclusion
+### – Rater la conclusion
 Vous venez de passer déjà au moins 1h sur votre devoir de philo, à quoi bon chercher à faire une synthèse de ce que vous avez écrit. Si le prof n’a pas compris où vous voulez en venir, c’est son problème !
 
 Ne répondez surtout pas à la question posée. Écrivez plutôt : “Finalement, ça dépend de chacun, tout est relatif”, ou bien “La question est très difficile et on ne peut pas y répondre”, ou encore “Il faut un juste milieu”.
