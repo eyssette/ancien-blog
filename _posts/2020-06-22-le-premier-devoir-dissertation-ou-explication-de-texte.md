@@ -1,7 +1,7 @@
 ---
 title: "Le premier devoir : dissertation ou explication de texte ?"
 author: Cédric Eyssette
-date: 2009-09-24 12:00:00 +0100
+date: 2020-06-22 12:00:00 +0100
 categories: [P&eacute;dagogie_&_Ressources_pour_les_coll&egrave;gues]
 tags: [ancien_blog]
 ---
