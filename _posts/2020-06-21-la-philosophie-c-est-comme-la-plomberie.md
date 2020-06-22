@@ -2,7 +2,7 @@
 title: La philosophie, c’est comme la plomberie
 author: Cédric Eyssette
 date: 2009-01-09 12:00:00 +0100
-categories: [Philosophie, 0_Introduction_à_la_philosophie]
+categories: [Philosophie, 0_Introduction_a_la_philosophie]
 tags: [ancien_blog, traductions]
 ---
 
