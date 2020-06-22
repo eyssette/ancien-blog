@@ -6,6 +6,7 @@ categories: [Philosophie, 0_Introduction_a_la_philosophie]
 tags: [ancien_blog, traductions]
 ---
 
+Mary Midgley propose une comparaison intéressante, dans son livre _Utopias, Dolphins and Computers: Problems in Philosophical Plumbing_, entre la plomberie et la philosophie. Voici un extrait sélectionné et une proposition de traduction (non-professionnelle).
 
 # Texte original
 
