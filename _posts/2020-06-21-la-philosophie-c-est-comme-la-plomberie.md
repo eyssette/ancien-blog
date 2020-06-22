@@ -8,9 +8,9 @@ tags: [ancien_blog, traductions]
 
 Mary Midgley propose une comparaison intéressante, dans son livre _Utopias, Dolphins and Computers: Problems in Philosophical Plumbing_, entre la plomberie et la philosophie. Voici un extrait sélectionné et une proposition de traduction (non-professionnelle).
 
-# Texte original
+## Texte original
 
->Is philosophy like plumbing? […]
+>« Is philosophy like plumbing? […]
 >Plumbing and philosophy are both activities that arise because elaborate cultures like ours have, beneath their surface, a fairly complex system which is usually unnoticed, but which sometimes goes wrong. In both cases, this can have serious consequences. Each system supplies vital needs for those who live above it. Each is hard to repair when it does go wrong, because neither of them was ever consciously planned as a whole. There have been many ambitious attempts to reshape both of them. But, for both, existing complications are usually too widespread to allow a completely new start.
 >Neither system ever had a single designer who knew exactly what needs it would have to meet. Instead, both have grown imperceptibly over the centuries, in the sort of way that organisms grow, and are constantly being altered piecemeal to suit changing demands, as the ways of life above them have branched out. Both are therefore now very intricate. When trouble arises, specialized skill is needed if there is to be any hope of locating it and putting it right.
 >Here, however, we run into the first striking difference between the two cases. About plumbing, everybody accepts this need for trained specialists. About philosophy, many people […] not only doubt the need, they are often sceptical about whether the underlying system even exists at all. It is much more deeply hidden. When the concepts we are living by function badly, they don't usually drip audibly through the ceiling or swamp the kitchen floor. They just quietly distort and obstruct our thinking. […]
@@ -20,7 +20,7 @@ That need to readjust our concepts is the need that philosophy exists to satisfy
 
 Midgley, Mary (1996). _Utopias, Dolphins and Computers: Problems in Philosophical Plumbing_, Routledge, p.1-2
 
-# Proposition de traduction (non professionnelle)
+## Proposition de traduction (non professionnelle)
 
 >« La philosophie ressemble-t-elle à la plomberie ? […]
 >La plomberie et la philosophie sont toutes les deux des activités qui naissent du fait que des cultures complexes comme la nôtre ont, sous leur surface, un système plutôt complexe, auquel on ne fait habituellement pas attention, mais qui peut parfois se détraquer. Dans les deux cas, cela peut avoir des conséquences graves. Chacun de ces systèmes pourvoit à des besoins vitaux pour ceux qui vivent au-dessus. Chacun d'eux est difficile à réparer quand quelque chose ne va pas, car aucun d'entre eux n'a jamais été consciemment planifié comme un tout. De nombreuses tentatives ambitieuses ont cherché à réorganiser ces deux systèmes. Mais, dans les deux cas, les complications existantes sont généralement trop répandues pour autoriser un véritable nouveau départ.
