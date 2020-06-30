@@ -1,5 +1,5 @@
 ---
-title: “Quatre textes pour mieux comprendre la liberté comme non-domination selon Philip Pettit”
+title: Quatre textes pour mieux comprendre la liberté comme non-domination selon Philip Pettit
 author: Cédric Eyssette
 date: 2020-07-01 00:30:00 +0100
 categories: [Philosophie, 4_Philosophie_sociale_et_politique]
