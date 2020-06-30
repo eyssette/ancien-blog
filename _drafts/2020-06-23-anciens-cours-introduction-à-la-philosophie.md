@@ -3,7 +3,7 @@ title: "Introduction à la philosophie : anciens cours"
 author: Cédric Eyssette
 date: 2020-06-21 12:00:00 +0200
 categories: [Philosophie, 0_Introduction_&agrave;_la_philosophie]
-tags: [ancien_blog]
+tags: [T_ancien_blog]
 ---
 
 Je reprends sur ce site les documents publiés sur d'anciens blogs.
