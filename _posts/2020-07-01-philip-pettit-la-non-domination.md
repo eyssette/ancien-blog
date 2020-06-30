@@ -3,7 +3,7 @@ title: "Quatre textes pour mieux comprendre la liberté comme non-domination sel
 author: Cédric Eyssette
 date: 2020-07-01 00:30:00 +0200
 categories: [Philosophie, 4_Philosophie_sociale_et_politique]
-tags: [Pettit, domination, r&eacute;publicanisme, consentement, &ecirc;tre_une_personne , libert&eacute;_politique]
+tags: [Pettit, domination, r&eacute;publicanisme, consentement, \&ecirc;tre_une_personne, libert&eacute;_politique]
 ---
 
 
