@@ -14,7 +14,7 @@ Peut-on comparer la difficulté de ces deux exercices et en faire un critère de
 
 ### – L'explication de texte : plus facile ?
 
-On pourrait penser que l'explication de texte est plus facile, étant donné qu'il y a un support pour la réflexion, plus étendu qu'une simple question simplement ouverte à la réflexion de l'élève. Commencer par la dissertation, ce serait plus impressionant et on risquerait davantage de perdre les élèves.
+On pourrait penser que l'explication de texte est plus facile, étant donné qu'il y a un support pour la réflexion, plus étendu qu'une simple question simplement ouverte à la réflexion de l'élève. Commencer par la dissertation, ce serait plus impressionnant et on risquerait davantage de perdre les élèves.
 
 Cependant, c'est un leurre : l'explication de texte est un exercice qui présente des difficultés propres, qu'il faut parvenir à surmonter. La correction des copies de baccalauréat montre bien que les élèves qui se ruent sur l'explication de texte, en croyant que c'est plus simple, se trompent.
 

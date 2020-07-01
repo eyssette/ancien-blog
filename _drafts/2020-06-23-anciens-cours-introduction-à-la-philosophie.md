@@ -1,5 +1,5 @@
 ---
-title: "Introduction à la philosophie : anciens cours"
+title: Introduction à la philosophie – anciens cours
 author: Cédric Eyssette
 date: 2020-06-21 12:00:00 +0200
 categories: [Philosophie, 0_Introduction_&agrave;_la_philosophie]
@@ -29,7 +29,7 @@ Je reprends sur ce site les documents publiés sur d'anciens blogs.
 
 ## 2008-2009
 
-- Document support : une approche de la philosophie par contraste entre les représentations ordinaires de la philosophie et du philosophe, et quelques textes de philosophes qui cherchent à expliquer ce qu'est la philoosphie (avec un travail d'écriture en fin de séance)
+- Document support : une approche de la philosophie par contraste entre les représentations ordinaires de la philosophie et du philosophe, et quelques textes de philosophes qui cherchent à expliquer ce qu'est la philosophie (avec un travail d'écriture en fin de séance)
 
 ## 2009-2010
 

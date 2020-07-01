@@ -37,7 +37,7 @@ Bon, il va bien falloir faire passer le temps (que c'est long … !). Commencez 
 
 ### – Rater le plan
 
-Si vous avez suivi la stratégie la plus efficace, vous en êtes probablement déjà à cette étape cruciale où on va s'amuser à mettre des idées les unes à côté les unes des autres (et on appelera ça "plan"). Êtes-vous encore plus audacieux ou audacieuse ? Foncez tête baissée dans la rédaction. La philo, c’est de l’inspiration pure ! 
+Si vous avez suivi la stratégie la plus efficace, vous en êtes probablement déjà à cette étape cruciale où on va s'amuser à mettre des idées les unes à côté les unes des autres (et on appellera ça "plan"). Êtes-vous encore plus audacieux ou audacieuse ? Foncez tête baissée dans la rédaction. La philo, c’est de l’inspiration pure ! 
 
 Pour les moins à l'aise avec cette étape, il y a des solutions fiables, testées par des générations entières d'élèves :
 - Le plan « I – Oui. II – Non »… : ça vous tente ? N'hésitez pas !
@@ -45,7 +45,7 @@ Pour les moins à l'aise avec cette étape, il y a des solutions fiables, testé
 
 De manière générale, adoptez le principe suivant : évitez absolument de répondre au sujet dans chaque partie. Parlez d’autre chose. 
 
-Surtout pas de transitions, ça gacherait la fulgurance de la pensée : il faut que ça soit un peu fou ! La philosophie c'est pas un raisonnement rigoureux, ça se saurait quand même.
+Surtout pas de transitions, ça gâcherait la fulgurance de la pensée : il faut que ça soit un peu fou ! La philosophie c'est pas un raisonnement rigoureux, ça se saurait quand même.
 
 
 ## La rédaction du devoir
