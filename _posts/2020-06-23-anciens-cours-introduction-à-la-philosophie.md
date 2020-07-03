@@ -10,10 +10,10 @@ Je reprends sur ce site les documents publiés sur d'anciens blogs.
 
 ## 2018-2019
 
-– [Plan du cours d'introduction à la philosophie](https://docs.google.com/document/d/1_GV6zXQ4gQtyiDbkNEwTN3UjAg6XA9clxQFl8HDH4Ok/edit?usp=sharing)
+- [Plan du cours d'introduction à la philosophie](https://docs.google.com/document/d/1_GV6zXQ4gQtyiDbkNEwTN3UjAg6XA9clxQFl8HDH4Ok/edit?usp=sharing)
 - [Diaporama](https://docs.google.com/presentation/d/1XI3WAUFFPYsIW17No1RV-cbJ_-hnvMlgzgf_B0_vVu8/edit?usp=sharing)
-– [Une fiche-concept sur la philosophie](https://docs.google.com/drawings/d/1JrJmktVtjLtzYLF7wGTJpYerTm02J5HluUtJenMHKC4/edit?usp=sharing)
-– [Une présentation de Socrate par Daniel Guillon-Legeay](./docs/ancien_blog/0_Introduction_philosophie/2018-2019-Daniel-Guillon-Legeay_Socrate-pere-philosophie.pdf)
+- [Une fiche-concept sur la philosophie](https://docs.google.com/drawings/d/1JrJmktVtjLtzYLF7wGTJpYerTm02J5HluUtJenMHKC4/edit?usp=sharing)
+- [Une présentation de Socrate par Daniel Guillon-Legeay](./docs/ancien_blog/0_Introduction_philosophie/2018-2019-Daniel-Guillon-Legeay_Socrate-pere-philosophie.pdf)
 
 ## 2017-2018
 
