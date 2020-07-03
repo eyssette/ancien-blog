@@ -51,7 +51,7 @@ Je reprends sur ce site les documents publiés sur d'anciens blogs.
 
 ## 2011-2012
 
-- [Un schéma](https://eyssette.github.io/blog/assets/pdf/ancien_blog/0_Introduction_philosophie/2011-2012-faire-de-la-philosophie.pdf) sur les caractéristiques d'une question philosophique et les grandes démarches philosophiques
+- Un schéma sur les caractéristiques d'une question philosophique et les grandes démarches philosophiques [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/0_Introduction_philosophie/2011-2012-faire-de-la-philosophie.pdf)
 
 ## 2010-2011
 
