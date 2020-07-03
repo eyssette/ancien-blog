@@ -78,9 +78,9 @@ Je reprends sur ce site les documents publiés sur d'anciens blogs.
 
 - Cours sur Socrate [(lien)](./docs/ancien_blog/0_Introduction_philosophie/2005-2006-socrate.pdf)
 - Extraits du Lachès et de l’Euthyphron [(lien)](./docs/ancien_blog/0_Introduction_philosophie/2005-2006-socrate_textes.pdf)
-- Texte de Pierre Hadot [lien)](./docs/ancien_blog/0_Introduction_philosophie/2005-2006-hadot_texte.pdf) sur la conception stoïcienne de la philosophie et exercices sur le texte
-- Récapitulatif [lien)](./docs/ancien_blog/0_Introduction_philosophie/2005-2006-hadot_recapitulatif.pdf) sur le texte de Pierre Hadot
-- Contrôle de connaissance [(lien)](./docs/ancien_blog/0_Introduction_philosophie/2005-2006-controle_socrate_hadot.pdf) sur Socrate et le texte de Pierre Hadot
-- Un texte de Mary Midgley [(lien))](./docs/ancien_blog/0_Introduction_philosophie/2005-2006-philosophical_plumbing.pdf), qui compare la philosophie et la plomberie !
+- Texte de Pierre Hadot sur la conception stoïcienne de la philosophie et exercices sur le texte [(lien)](./docs/ancien_blog/0_Introduction_philosophie/2005-2006-hadot_texte.pdf)
+- Récapitulatif sur le texte de Pierre Hadot [(lien)](./docs/ancien_blog/0_Introduction_philosophie/2005-2006-hadot_recapitulatif.pdf)
+- Contrôle de connaissance sur Socrate et le texte de Pierre Hadot [(lien)](./docs/ancien_blog/0_Introduction_philosophie/2005-2006-controle_socrate_hadot.pdf)
+- Un texte de Mary Midgley, qui compare la philosophie et la plomberie [(lien)](./docs/ancien_blog/0_Introduction_philosophie/2005-2006-philosophical_plumbing.pdf)
   - Un extrait plus étendu, et une traduction plus récente sont disponibles sur ce blog : [La philosophie, c'est comme la plomberie](https://eyssette.github.io/blog/posts/la-philosophie-c-est-comme-la-plomberie/)
-- Un texte de Moritz Schlick [(lien))](./docs/ancien_blog/0_Introduction_philosophie/2005-2006-schlick_texte.pdf), sur la philosophie comme recherche du sens et sur Socrate
+- Un texte de Moritz Schlick, sur la philosophie comme recherche du sens et sur Socrate [(lien)](./docs/ancien_blog/0_Introduction_philosophie/2005-2006-schlick_texte.pdf)
