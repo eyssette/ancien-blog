@@ -3,7 +3,7 @@ title: Bonheur et désir – anciens cours
 author: Cédric Eyssette
 date: 2020-05-02 12:00:00 +0100
 categories: [Philosophie, 1_&Eacute;thique_et_philosophie_morale]
-tags: [T_ancien_blog, N_bonheur, N_d&eacute;sir, A_Jacques_Schlanger, N_h&eacute;donisme, N_causes_et_raisons, N_raisonnement_pratique, N_perfectionnisme, A_John_Stuart_Mill, A_Aristote, A_Nozick, N_machine_&agrave;_exp&eacute;rience, A_Platon, A_Baudelaire, A_Nietzsche, N_ivresse, A_Bataille, A_&Eacute;picure, N_publicit&eacute, A_Rousseau, A_Kymlicka, N_utilitarisme, A_Tocqueville, N_despotisme_doux, A_Alain, A_Bentham, N_&eacute;conomie, N_droit_au_bonheur, A_Mozart, A_Moli&egrave;re, N_mythe_d_Aristophane, A_Sto&iuml;cisme, N_hasard, N_tragique, N_mis&egrave;re, N_divertissement, N_vanit&eacute;, A_Pascal, A_Kant, N_imagination, N_raison, A_&Eacute;pict&egrave;te, N_inqui&eacute;tude, T_Exercices_num&eacute;riques, N_conatus, A_Spinoza, N_pl&eacute;onexie, N_passions, A_Antonio_Damasio]
+tags: [T_ancien_blog, N_bonheur, N_d&eacute;sir, A_Jacques_Schlanger, N_h&eacute;donisme, N_causes_et_raisons, N_raisonnement_pratique, N_perfectionnisme, A_John_Stuart_Mill, A_Aristote, A_Nozick, E_machine_&agrave;_exp&eacute;rience, A_Platon, A_Baudelaire, A_Nietzsche, N_ivresse, A_Bataille, A_&Eacute;picure, E_publicit&eacute;, A_Rousseau, A_Kymlicka, N_utilitarisme, A_Tocqueville, N_despotisme_doux, A_Alain, A_Bentham, N_&eacute;conomie, N_droit_au_bonheur, A_Mozart, A_Moli&egrave;re, N_mythe_d_Aristophane, A_Sto&iuml;cisme, N_hasard, N_tragique, N_mis&egrave;re, N_divertissement, E_vanit&eacute;s, A_Pascal, A_Kant, N_imagination, N_raison, A_&Eacute;pict&egrave;te, N_inqui&eacute;tude, T_Exercices_num&eacute;riques, N_conatus, A_Spinoza, N_pl&eacute;onexie, N_passions, A_Antonio_Damasio, E_Don_Juan]
 ---
 
 Je reprends sur ce site les documents publiés sur d'anciens blogs.
@@ -65,20 +65,20 @@ Rien de publié en ligne cette année
 
 ## 2013-2014
 
-- Fiche support du cours [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/)
-- Fiche de synthèse [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/)
-- Plan de travail [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/)
+- Fiche support du cours [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2013_2014_cours1-1-bonheur-desir.pdf)
+- Fiche de synthèse [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2013_2014_synthese-bonheur-desir.pdf)
+- Plan de travail [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2013_2014_cours1-1-bonheur-desir-PlanTravail.pdf)
   - Exercices d'entraînement sur LearningApps [(lien)](https://docs.google.com/document/d/1OGRahD1TKwJVx0MtuuM-zBR_HDLP7C9QGB2qBI2j-PY/edit)
   - Dossier d'approfondissement sur le bonheur comme idéal impossible [(lien)](https://drive.google.com/drive/u/0/folders/0B1WGm8LGlYXzb25BU2lGUGc5N28)
   - Dossier d'approfondissement sur les sagesses antiques comme art de vivre [(lien)](https://drive.google.com/drive/u/0/folders/0B1WGm8LGlYXzM1p2RURzbDJ2Z3c)
   - Dossier d'approfondissement sur deux perspectives critiques :
-    - (i) ne faut-il pas réhabiliter le désir ? [(lien)](https://drive.google.com/drive/u/0/folders/0B1WGm8LGlYXzS0xnYUFESU9yc00)
+    - (i) Ne faut-il pas réhabiliter le désir ? [(lien)](https://drive.google.com/drive/u/0/folders/0B1WGm8LGlYXzS0xnYUFESU9yc00)
     - (ii) Faut-il remettre en cause l'idéal du bonheur ? [(lien)](https://drive.google.com/drive/u/0/folders/0B1WGm8LGlYXzdU9CcjRobzlrVnM)
 - Exemples rédigés
-  - Introduction sur « La satisfaction des désirs procure-t-elle le bonheur ? » et sur « Le bonheur est-il une affaire privée ? » [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/)
-  - Plans de dissertation sur quatre sujets « Le bonheur est-il possible ? », « La réflexion est-elle un obstacle au bonheur ? », « Le désir est-il la marque de la misère de l'homme ? », « Le bonheur est-il une affaire privée ? » [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/)
-  - Partie développée sur le sujet « Le bonheur dépend-il de nous » [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/)
-  - Conclusion sur le sujet « Le bonheur dépend-il de nous » [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/)
+  - Introduction sur « La satisfaction des désirs procure-t-elle le bonheur ? » et sur « Le bonheur est-il une affaire privée ? » [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2013_2014_deux-exemples-introduction.pdf)
+  - Plans de dissertation sur quatre sujets « Le bonheur est-il possible ? », « La réflexion est-elle un obstacle au bonheur ? », « Le désir est-il la marque de la misère de l'homme ? », « Le bonheur est-il une affaire privée ? » [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2013_2014_exemples-plan-dissertation.pdf)
+  - Partie développée sur le sujet « Le bonheur dépend-il de nous » [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2013_2014_exemple-partie-dissertation.pdf)
+  - Conclusion sur le sujet « Le bonheur dépend-il de nous » [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2013_2014_exemple-conclusion-dissertation.pdf)
 
 ## 2012-2013
 
@@ -86,7 +86,7 @@ Rien de publié en ligne cette année
 
 ### – Le bonheur est-il possible ?
 
-- Fiche support [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/)
+- Fiche support [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2012_2013_tl-q1-le-bonheur-est-il-possible.pdf)
 - Exercices [(lien)](https://docs.google.com/document/d/1oaV4-0mOyhXvn0TfpqeI6MdeVosOA1f8MTT_tkVyxos/edit)
 - Documents utilisés et documents complémentaires [(lien)](https://docs.google.com/folder/d/0B1WGm8LGlYXzNFU2b0h6OV9INzQ/edit)
   - Kant : le bonheur comme idéal de l'imagination [(lien)](https://docs.google.com/document/d/1INTbQ0r_uZ9K2Q6wuxe3-2Es7jlc9It2oVKoLTC4emw/edit?usp=sharing)
@@ -103,7 +103,7 @@ Rien de publié en ligne cette année
 
 ### – Le bonheur est-il vraiment désirable ?
 
-- Fiche support [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/)
+- Fiche support [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2012_2013_tl-q2-le-bonheur-est-il-vraiment-desirable.pdf)
 - Documents utilisés et documents complémentaires [(lien)](https://docs.google.com/folder/d/0B1WGm8LGlYXzS3VEcHZ1andlekU/edit)
   - Bonheur et morale : recueil de textes [(lien)](https://docs.google.com/document/d/1DTG6bBVQdO5TF-nJLHF1LySx0W3D2dXuOWcu5n2hSBM/edit?usp=sharing)
   - Les trois générations de droits humains [(lien)](https://docs.google.com/document/d/1PtxaCCn_UqJcuYV4K6G7h8sIjjMHBiNk8ZfkYWgVS0c/edit?usp=sharing)
@@ -128,7 +128,7 @@ Rien de publié en ligne cette année
 ## 2010-2011
 
 - Cours sur le bonheur et le désir : notes de cours d'une élève [(lien)](https://docs.google.com/document/d/1R1eVNZ-uSR71YLwmhYar8F7yqkxpk7bQu5gfP5yIknU/edit?usp=sharing)
-- Fiche de révision sur le bonheur et le désir [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/)
+- Fiche de révision sur le bonheur et le désir [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2010_2011_revision-bonheur_desir.pdf)
 
 ### – La satisfaction des désirs peut-elle nous conduire au bonheur ?
 
@@ -174,46 +174,48 @@ Rien de publié en ligne cette année
 
 ## 2008-2009
 
-- Cours sur le bonheur et le désir [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/)
+- Cours sur le bonheur et le désir [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2008_2009_cours_bonheur_desir.pdf)
 - Documents utilisés dans ce cours : 
-  - La publicité et le bonheur [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/)
-  - Un texte de François Brune sur la représentation du bonheur dans la publicité [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/)
-  - Le bonheur consiste-t-il vraiment à satisfaire tous ses désirs ? Objections possibles : textes de Kymlicka sur les difficultés de l'utilitarisme des préférences, texte de Schopenhauer [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/)
-  - Présentation de la philosophie d’Épicure par Patrick Daneau : Épicure contre l’hyperconsommation [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/)
+  - La publicité et le bonheur [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2008_2009_publicite_bonheur.pdf)
+  - Un texte de François Brune sur la représentation du bonheur dans la publicité [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2008_2009_publicite_brune.pdf)
+  - Le bonheur consiste-t-il vraiment à satisfaire tous ses désirs ? Objections possibles : textes de Kymlicka sur les difficultés de l'utilitarisme des préférences, texte de Schopenhauer [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2008_2009_objections_satisfaction.pdf)
+  - Présentation de la philosophie d’Épicure par Patrick Daneau : Épicure contre l’hyperconsommation [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2008_2009_epicure_contre_l_hyperconsommation.pdf)
+  - Deux situations problématiques : la lobotomie et la machine à expérience (Nozick) [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2008_2009_lobotomie_machine_experience.pdf)
+  - Deux exemples de conception perfectionniste du bonheur : John Stuart Mill et Aristote [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2008_2009_perfectionnisme_mill_aristote.pdf)
 
 ## 2007-2008
 
-- Ancienne page web du cours [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/)
+- Ancienne page web du cours [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_cours_bonheur_desir.pdf)
 - Documents utilisés dans ce cours :
-  - Texte de Rousseau : il faut diminuer l'excès des désirs sur nos facultés [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/)
-  - L'objection du tonneau percé de Platon et l'exemple de la publicité [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/)
-  - Une image intéressante à analyser : une publicité pour Dior [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/)
-  - Un exemple d'analyse de cette image par Erwan François [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/)
-  - Texte d'Épicure [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/)
-  - Textes sur le désir de l'excès : Platon sur Calliclès, Baudelaire et Nietzsche sur l'ivresse, Bataille sur le désir de ce qui peut nous menacer [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/)
-  - Des images de modifications culturelles du corps [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/)
-  - Une analyse du début de la rencontre entre les néo-zélandais et les français, lors de la coupe du monde de rugby 2007, par Catherine Kintzler [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/)
-  - Le texte de l'air du champagne dans le _Don Giovanni_ de Mozart [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/)
+  - Texte de Rousseau : il faut diminuer l'excès des désirs sur nos facultés [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_rousseau.pdf)
+  - L'objection du tonneau percé de Platon et l'exemple de la publicité [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_platon_pub.pdf)
+  - Une image intéressante à analyser : une publicité pour Dior [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_dior.jpg)
+  - Un exemple d'analyse de cette image par Erwan François [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_analyse_dior.pdf)
+  - Texte d'Épicure [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_epicure.pdf)
+  - Textes sur le désir de l'excès : Platon sur Calliclès, Baudelaire et Nietzsche sur l'ivresse, Bataille sur le désir de ce qui peut nous menacer [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_exces.pdf)
+  - Des images de modifications culturelles du corps [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_deformation_corps.png)
+  - Une analyse du début de la rencontre entre les néo-zélandais et les français, lors de la coupe du monde de rugby 2007, par Catherine Kintzler [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_haka.pdf)
+  - Le texte de l'air du champagne dans le _Don Giovanni_ de Mozart [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_mozart.pdf)
   - Un lien vers une analyse de l'ouverture de cet opéra de Mozart [(lien)](http://musique.ac-dijon.fr/bac2002/mozart/ouvanalys1a.html)
-  - Deux situations problématiques : la lobotomie et la machine à expérience (Nozick) [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/)
-  - Deux exemples de conception perfectionniste du bonheur : John Stuart Mill et Aristote [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/)
-- Quatre sujets sur le bonheur et le désir [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/)
+- Quatre sujets sur le bonheur et le désir [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_4_sujets_sur_le_bonheur.pdf)
+- Quiz sur le bonheur et le désir [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_quiz.pdf)
+- Autre quiz sur le bonheur et le désir [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_stg_quiz.pdf)
 
 ## 2006-2007
 
-- Plan et textes pour le cours sur le bonheur [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/)
-- Proposition de plan pour le sujet « Le désir peut-il se satisfaire de la réalité ? » [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/)
+- Plan et textes pour le cours sur le bonheur et le désir [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2006_2007_bonheur_fiche_support.pdf)
+- Proposition de plan pour le sujet « Le désir peut-il se satisfaire de la réalité ? » [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2006_2007_Le_desir_peut_il_se_satisfaire_de_la_realite.pdf)
 
 ## 2005-2006
 
-### – cours sur le bonheur
+### – Cours sur le bonheur
 
 - Qu'est-ce que le bonheur ? : fiche récapitulative du cours [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2005_2006_fiche_recapitulative_bonheur.pdf)
 - Comment définir le bonheur ? [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2005_2006_definir_le_bonheur.pdf)
 - Texte de Jacques Schlanger, à propos de la distinction entre bonheur véritable et bonheur apparent [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2005_2006_schlanger_texte.pdf)
 - Textes pour la deuxième partie du cours : trois conceptions du bonheur (hédonisme, théories de la satisfaction des désirs, conceptions de la liste objective) [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2005_2006_trois_conceptions_bonheur.pdf)
 
-### – cours sur le désir
+### – Cours sur le désir
 
 - Qu'est-ce que désirer ? : fiche récapitulative du cours [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2005_2006_fiche_recapitulative_desir.pdf)
 - La distinction entre les causes et les raisons [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2005_2006_causes_raisons_fiche.pdf)
