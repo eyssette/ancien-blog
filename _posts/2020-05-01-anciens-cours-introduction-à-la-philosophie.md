@@ -3,7 +3,7 @@ title: Introduction à la philosophie – anciens cours
 author: Cédric Eyssette
 date: 2020-05-01 12:00:00 +0100
 categories: [Philosophie, 0_Introduction_&agrave;_la_philosophie]
-tags: [T_ancien_blog, A_Socrate, A_Pierre_Hadot, A_Moritz_Schlick]
+tags: [T_ancien_blog, A_Socrate, A_Pierre_Hadot, A_Moritz_Schlick, T-probl&eacute;matiser, T-argumenter, T-conceptualiser]
 ---
 
 Je reprends sur ce site les documents publiés sur d'anciens blogs.
@@ -27,6 +27,7 @@ Je reprends sur ce site les documents publiés sur d'anciens blogs.
 ## 2015-2016
 
 - Diaporama [(lien)](https://docs.google.com/presentation/d/16nFC-dMbTjhH3APBEn2smL65mwUehL6I__W4SAadsPI/edit?usp=sharing)
+- Points méthodes [(lien)](https://docs.google.com/presentation/d/1J5v7J8H2MSMABNKOyEKnNw6V0VbMrW1DNJNEZ7HFwhQ/edit?usp=sharing)
 
 ## 2014-2015
 
