@@ -44,20 +44,19 @@ Je reprends sur ce site les documents publiés sur d'anciens blogs.
 ## 2015-2016
 
 - Fiche de synthèse [(lien)](https://docs.google.com/document/d/1TcatNa7apTxuIwb9cyZe3WTY-cKafXyjV6uGnqVUoSM/edit?usp=sharing)
-- Le bonheur n'est-il qu'un idéal ?
-  - Introduction [(lien)](https://docs.google.com/presentation/d/1tidTKdmvHYu0waHVJL9XnAHCSRYXrxOHiHJSvJ4PDp0/edit?usp=sharing)
-  - I - À première vue, le bonheur semble être un idéal impossible
-    - A. Il est difficile de savoir ce que nous désirons vraiment [(lien)](https://docs.google.com/presentation/d/11C4AoxSkEK4RyWJaca5DCXZGP2uTB2yr6zKaZks-tTo/edit?usp=sharing)
-    - B. Nous avons tendance à ne jamais être satisfaits [(lien)](https://docs.google.com/presentation/d/13Bs1eVtm3R8tsXyViRdsSGkCkPpDFpT5Mr-oMPmmk54/edit?usp=sharing)
-    - C. Nous ne pouvons pas éliminer le tragique de l'existence (TL) [(lien)](https://docs.google.com/presentation/d/1wb6d7db_iCqUu_v-dQV8m384SNCa67JSPoo1mehB1dY/edit?usp=sharing)
-    - Synthèse-transition [(lien)](https://docs.google.com/presentation/d/1P-2wowbUnehQJQFHJ_VwH-YT1MaAKKEfQQF3r3qPk8g/edit?usp=sharing)
-  - II - Mais, on peut tout de même apprendre à être heureux
-    - A. On peut réapprendre à savourer le simple plaisir d'exister [(lien)](https://docs.google.com/presentation/d/1z9mxsPQapMcZddwzR4ek4JNYF9U4Grbj7yUp4_8PJgo/edit?usp=sharing)
-    - B. On peut apprendre à ne pas être troublé par les événements que nous subissons (TL) [(lien)](https://docs.google.com/presentation/d/1tKBM0HVTiRC8imhRqMMHb9F0nhNuGQLbCDfwFmQyd7I/edit?usp=sharing)
-  - III - Cependant, le bonheur est-il vraiment toujours un idéal ?
-    - A. Que désirons-nous vraiment ? Atteindre un état paisible de plénitude ou bien vivre une vie intense, riche et pleine de sens ? [(lien)](https://docs.google.com/presentation/d/1PSW1N_tpa2ETCFvsJq_HPDmlyUGn5M-1EZI4FyaNq1k/edit?usp=sharing)
-    - B. Désirons-nous vraiment être heureux à tout prix ? Ne faut-il pas parfois préférer la liberté au bonheur ? [(lien)](https://docs.google.com/presentation/d/1tf2LHB2OLpCuczYqGNiCixmmgNDoHGmazWSI2lDUnow/edit?usp=sharing)
-    - C. A-t-on le droit de rechercher le bonheur de manière égoïste sans se préoccuper des autres ? (TL) [(lien)](https://docs.google.com/presentation/d/12JBLYOvKdjvcylmqS3ZjS5Pgfv2wt6X3QsuAfqv3zTw/edit?usp=sharing)
+- Le bonheur n'est-il qu'un idéal ? Introduction [(lien)](https://docs.google.com/presentation/d/1tidTKdmvHYu0waHVJL9XnAHCSRYXrxOHiHJSvJ4PDp0/edit?usp=sharing)
+- I - À première vue, le bonheur semble être un idéal impossible
+  - A. Il est difficile de savoir ce que nous désirons vraiment [(lien)](https://docs.google.com/presentation/d/11C4AoxSkEK4RyWJaca5DCXZGP2uTB2yr6zKaZks-tTo/edit?usp=sharing)
+  - B. Nous avons tendance à ne jamais être satisfaits [(lien)](https://docs.google.com/presentation/d/13Bs1eVtm3R8tsXyViRdsSGkCkPpDFpT5Mr-oMPmmk54/edit?usp=sharing)
+  - C. Nous ne pouvons pas éliminer le tragique de l'existence (TL) [(lien)](https://docs.google.com/presentation/d/1wb6d7db_iCqUu_v-dQV8m384SNCa67JSPoo1mehB1dY/edit?usp=sharing)
+  - Synthèse-transition [(lien)](https://docs.google.com/presentation/d/1P-2wowbUnehQJQFHJ_VwH-YT1MaAKKEfQQF3r3qPk8g/edit?usp=sharing)
+- II - Mais, on peut tout de même apprendre à être heureux
+  - A. On peut réapprendre à savourer le simple plaisir d'exister [(lien)](https://docs.google.com/presentation/d/1z9mxsPQapMcZddwzR4ek4JNYF9U4Grbj7yUp4_8PJgo/edit?usp=sharing)
+  - B. On peut apprendre à ne pas être troublé par les événements que nous subissons (TL) [(lien)](https://docs.google.com/presentation/d/1tKBM0HVTiRC8imhRqMMHb9F0nhNuGQLbCDfwFmQyd7I/edit?usp=sharing)
+- III - Cependant, le bonheur est-il vraiment toujours un idéal ?
+  - A. Que désirons-nous vraiment ? Atteindre un état paisible de plénitude ou bien vivre une vie intense, riche et pleine de sens ? [(lien)](https://docs.google.com/presentation/d/1PSW1N_tpa2ETCFvsJq_HPDmlyUGn5M-1EZI4FyaNq1k/edit?usp=sharing)
+  - B. Désirons-nous vraiment être heureux à tout prix ? Ne faut-il pas parfois préférer la liberté au bonheur ? [(lien)](https://docs.google.com/presentation/d/1tf2LHB2OLpCuczYqGNiCixmmgNDoHGmazWSI2lDUnow/edit?usp=sharing)
+  - C. A-t-on le droit de rechercher le bonheur de manière égoïste sans se préoccuper des autres ? (TL) [(lien)](https://docs.google.com/presentation/d/12JBLYOvKdjvcylmqS3ZjS5Pgfv2wt6X3QsuAfqv3zTw/edit?usp=sharing)
 
 ## 2014-2015
 
@@ -74,7 +73,7 @@ Rien de publié en ligne cette année
   - Dossier d'approfondissement sur deux perspectives critiques :
     - (i) Ne faut-il pas réhabiliter le désir ? [(lien)](https://drive.google.com/drive/u/0/folders/0B1WGm8LGlYXzS0xnYUFESU9yc00)
     - (ii) Faut-il remettre en cause l'idéal du bonheur ? [(lien)](https://drive.google.com/drive/u/0/folders/0B1WGm8LGlYXzdU9CcjRobzlrVnM)
-- Exemples rédigés
+- Exemples rédigés :
   - Introduction sur « La satisfaction des désirs procure-t-elle le bonheur ? » et sur « Le bonheur est-il une affaire privée ? » [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2013_2014_deux-exemples-introduction.pdf)
   - Plans de dissertation sur quatre sujets « Le bonheur est-il possible ? », « La réflexion est-elle un obstacle au bonheur ? », « Le désir est-il la marque de la misère de l'homme ? », « Le bonheur est-il une affaire privée ? » [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2013_2014_exemples-plan-dissertation.pdf)
   - Partie développée sur le sujet « Le bonheur dépend-il de nous » [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2013_2014_exemple-partie-dissertation.pdf)

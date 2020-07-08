@@ -26,15 +26,14 @@ Je reprends sur ce site les documents publiés sur d'anciens blogs.
 - Documents pour préparer le colloque : 
   - le relativisme culturel [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_support-morale-relativisme.pdf)
   - l’éthique de la sensibilité morale [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017_2018_support-morale-sensibilite-morale.pdf)
-    - le problème de l’existence du mal :
-      - le cas Eichmann et la question de la “banalité du mal” (Hannah Arendt) [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_eichmann-banalite-mal-arendt.pdf)
-      - le 101e bataillon de police allemande (Christopher Browning) [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_browning-hommes-ordinaires.pdf)
-      - la lettre de Willy Just [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_lettre-willy-just.pdf)
-      - le génocide des Tutsis au Rwanda [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_genocide-tutsi-rwanda.pdf)
-      - l’expérience de Milgram [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_milgram.pdf)
+    - le cas Eichmann et la question de la “banalité du mal” (Hannah Arendt) [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_eichmann-banalite-mal-arendt.pdf)
+    - le 101e bataillon de police allemande (Christopher Browning) [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_browning-hommes-ordinaires.pdf)
+    - la lettre de Willy Just [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_lettre-willy-just.pdf)
+    - le génocide des Tutsis au Rwanda [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_genocide-tutsi-rwanda.pdf)
+    - l’expérience de Milgram [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_milgram.pdf)
   - l’utilitarisme [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_support-morale-utilitarisme.pdf)
-      - un calcul objectif des conséquences : l’exemple de l’homoparentalité et l’exemple des salles de shoot [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_homoparentalite-salles-de-shoot.pdf)
-      - un calcul global des conséquences : l’exemple de la consommation de viande [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_consommation_viande_consequentialisme.pdf)
+    - un calcul objectif des conséquences : l’exemple de l’homoparentalité et l’exemple des salles de shoot [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_homoparentalite-salles-de-shoot.pdf)
+    - un calcul global des conséquences : l’exemple de la consommation de viande [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_consommation_viande_consequentialisme.pdf)
   - la morale kantienne [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_support-morale-Kant.pdf)
 
 ## 2016-2017
@@ -46,7 +45,7 @@ Je reprends sur ce site les documents publiés sur d'anciens blogs.
 
 - Le bien et le mal ne sont-ils que des conventions sociales ?
   - Introduction [(lien)](https://docs.google.com/presentation/d/1bOaWDATg5Tl5FqTgI5HGWITN-wpGEZuPRKbr1sVPLxg/edit?usp=sharing)
-    - I - À première vue, le bien et le mal semblent être le produit de la société
+  - I - À première vue, le bien et le mal semblent être le produit de la société
     - A. La conscience morale de l'individu se construit au sein de la société [(lien)](https://docs.google.com/presentation/d/1JOKXdgqwPgis-9Onz1E09Tn5SgIvMDNoGnsFYkaRPys/edit?usp=sharing)
     - B. Les valeurs et les normes semblent être relatives à la culture [(lien)](https://docs.google.com/presentation/d/1UzgHRGpPovEsptuo5Gu0hKUvbEpaM3b9Pxiz2RWIsrA/edit?usp=sharing)
   - II - Mais, ne peut-on pas tout de même dépasser le relativisme culturel ?
