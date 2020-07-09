@@ -40,7 +40,7 @@ Je reprends sur ce site les documents publiés sur d'anciens blogs.
 - Plan de travail [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/0_Introduction_philosophie/2013-2014-introduction-philosophie-PlanTravail.pdf)
 - Cours sur Socrate [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/0_Introduction_philosophie/2013-2014-Socrate-cours.pdf)
 - Textes sur la philosophie comme réflexion critique [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/0_Introduction_philosophie/2013-2014-textes-philosophie-comme-reflexion-critique.pdf)
-- Comment rater sa dissertation en philosophie ? [(lien)](2013-2014-comment-rater-sa-dissertation-en-philosophie.pdf)
+- Comment rater sa dissertation en philosophie ? [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/0_Introduction_philosophie/2013-2014-comment-rater-sa-dissertation-en-philosophie.pdf)
   - Une version plus récente de ce texte est disponible ici : [Comment rater sa dissertation en philosophie ?](https://eyssette.github.io/blog/posts/comment-rater-sa-dissertation-en-philosophie/)
 
 ## 2012-2013

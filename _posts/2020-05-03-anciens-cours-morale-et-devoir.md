@@ -56,7 +56,7 @@ Je reprends sur ce site les documents publiés sur d'anciens blogs.
 
 ## 2014-2015
 
-- Dossier sur le relativisme culturel, pour un travail par groupes [(lien)](2014_2015_dossier_relativisme-culturel.pdf)
+- Dossier sur le relativisme culturel, pour un travail par groupes [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2014_2015_dossier_relativisme-culturel.pdf)
 
 ## 2013-2014
 
@@ -138,7 +138,7 @@ Je reprends sur ce site les documents publiés sur d'anciens blogs.
 
 ## 2009-2010
 
-- Avons-nous des devoirs envers les animaux ? : discussion avec les élèves [(lien)](2009_2010_devoirs_envers_animaux_discussion_eleves.pdf)
+- Avons-nous des devoirs envers les animaux ? : discussion avec les élèves [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2009_2010_devoirs_envers_animaux_discussion_eleves.pdf)
 
 ## 2008-2009
 
