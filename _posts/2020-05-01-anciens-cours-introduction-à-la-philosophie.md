@@ -56,7 +56,7 @@ Je reprends sur ce site les documents publiés sur d'anciens blogs.
 
 ## 2010-2011
 
-- Diaporama [(lien)](https://docs.google.com/presentation/d/e/2PACX-1vTDCmkqk1ZaxBhapt1Sv66yYiSC7lRLwBA3tivyXu1wuM217yimWfa0P-o7KwSa-zTX7exRoxG2yKyL/pub?start=false&loop=false&delayms=60000ff)
+- Diaporama [(lien)](https://docs.google.com/presentation/d/1u41dC3Gf2tH6VDwpv3X1ZPQvdqtPxp745HueE3IPbCw/edit?usp=sharing)
 
 ## 2009-2010
 
