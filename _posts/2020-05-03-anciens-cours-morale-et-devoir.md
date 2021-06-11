@@ -24,17 +24,17 @@ Je reprends sur ce site les documents publiés sur d'anciens blogs.
 - Synthèse [(lien)](https://docs.google.com/drawings/d/1rmtMZWLslG1219sTQSnDDON31Ytfx3fneu9w3enibH8/edit?usp=sharing) 
 - Cahier de textes [(lien)](https://docs.google.com/document/d/1EVvlRIxpSNpigyl2J9dxX63n7f90l3RQTJosd94-vvY/edit?usp=sharing)
 - Documents pour préparer le colloque : 
-  - Le relativisme culturel [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_support-morale-relativisme.pdf)
-  - L’éthique de la sensibilité morale [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017_2018_support-morale-sensibilite-morale.pdf)
-    - Le cas Eichmann et la question de la “banalité du mal” (Hannah Arendt) [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_eichmann-banalite-mal-arendt.pdf)
-    - Le 101e bataillon de police allemande (Christopher Browning) [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_browning-hommes-ordinaires.pdf)
-    - La lettre de Willy Just [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_lettre-willy-just.pdf)
-    - Le génocide des Tutsis au Rwanda [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_genocide-tutsi-rwanda.pdf)
-    - L’expérience de Milgram [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_milgram.pdf)
-  - L’utilitarisme [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_support-morale-utilitarisme.pdf)
-    - Un calcul objectif des conséquences : l’exemple de l’homoparentalité et l’exemple des salles de shoot [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_homoparentalite-salles-de-shoot.pdf)
-    - Un calcul global des conséquences : l’exemple de la consommation de viande [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_consommation_viande_consequentialisme.pdf)
-  - La morale kantienne [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_support-morale-Kant.pdf)
+  - Le relativisme culturel [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_support-morale-relativisme.pdf)
+  - L’éthique de la sensibilité morale [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017_2018_support-morale-sensibilite-morale.pdf)
+    - Le cas Eichmann et la question de la “banalité du mal” (Hannah Arendt) [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_eichmann-banalite-mal-arendt.pdf)
+    - Le 101e bataillon de police allemande (Christopher Browning) [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_browning-hommes-ordinaires.pdf)
+    - La lettre de Willy Just [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_lettre-willy-just.pdf)
+    - Le génocide des Tutsis au Rwanda [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_genocide-tutsi-rwanda.pdf)
+    - L’expérience de Milgram [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_milgram.pdf)
+  - L’utilitarisme [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_support-morale-utilitarisme.pdf)
+    - Un calcul objectif des conséquences : l’exemple de l’homoparentalité et l’exemple des salles de shoot [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_homoparentalite-salles-de-shoot.pdf)
+    - Un calcul global des conséquences : l’exemple de la consommation de viande [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_consommation_viande_consequentialisme.pdf)
+  - La morale kantienne [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2017-2018_support-morale-Kant.pdf)
 
 ## 2016-2017
 
@@ -52,17 +52,17 @@ Je reprends sur ce site les documents publiés sur d'anciens blogs.
     - A. Le relativisme culturel est problématique [(lien)](https://docs.google.com/presentation/d/10rSJcI-lh2V-7Hu-qtjRLsS0zEyh5Soh0S7wxIUo0Qw/edit?usp=sharing)
     - B. Il semble y avoir une base naturelle du sens moral [(lien)](https://docs.google.com/presentation/d/1cx8VX1WYTH7hdjADJuNm3ZeiuDY_gQmL9L1m9_jok4k/edit?usp=sharing)
     - C. La raison peut jouer un rôle en morale et nous conduire à questionner nos choix éthiques [(lien)](https://docs.google.com/presentation/d/1cx8VX1WYTH7hdjADJuNm3ZeiuDY_gQmL9L1m9_jok4k/edit?usp=sharing)
-- Document support pour travailler l'idée d'une généalogie de la morale selon Nietzsche [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2015_2016_nietzsche-genealogie-morale.pdf)
+- Document support pour travailler l'idée d'une généalogie de la morale selon Nietzsche [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2015_2016_nietzsche-genealogie-morale.pdf)
 
 ## 2014-2015
 
-- Dossier sur le relativisme culturel, pour un travail par groupes [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2014_2015_dossier_relativisme-culturel.pdf)
+- Dossier sur le relativisme culturel, pour un travail par groupes [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2014_2015_dossier_relativisme-culturel.pdf)
 
 ## 2013-2014
 
-- Fiche support du cours [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2013_2014_cours1-2-morale-devoir.pdf)
-- Fiche de synthèse [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2013_2014_synthese-morale-devoir.pdf)
-- Plan de travail [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2013_2014_cours1-2-morale-devoir-PlanTravail.pdf)
+- Fiche support du cours [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2013_2014_cours1-2-morale-devoir.pdf)
+- Fiche de synthèse [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2013_2014_synthese-morale-devoir.pdf)
+- Plan de travail [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2013_2014_cours1-2-morale-devoir-PlanTravail.pdf)
 
 ## 2012-2013
 
@@ -70,7 +70,7 @@ Je reprends sur ce site les documents publiés sur d'anciens blogs.
 
 ### – Quelle est l’origine de nos croyances morales ?
 
-- Fiche support [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2012_2013_tl-q3-origine-croyances-morales.pdf)
+- Fiche support [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2012_2013_tl-q3-origine-croyances-morales.pdf)
 - Documents utilisés et documents complémentaires [(lien)](https://drive.google.com/drive/u/0/folders/0B1WGm8LGlYXzUUxiajVmdHdwZXM)
   - Textes de Nietzsche sur la morale [(lien)](https://docs.google.com/document/d/1UK4dKwmYuvn_LHYSus-KcOr_5LXpS7IZhgM6TAXm7H0/edit?usp=sharing)
   - Schéma : Nietzsche sur la morale [(lien)](https://docs.google.com/drawings/d/1VGkvsr1s7JPJMcMcqp1ApMjuB0h0xQ2vG-ZT-XBF9Io/edit?usp=sharing)
@@ -88,7 +88,7 @@ Je reprends sur ce site les documents publiés sur d'anciens blogs.
 
 ### – Y a-t-il une vérité en morale ?
 
-- Fiche support [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2012_2013_tl-q4-verite-en-morale.pdf)
+- Fiche support [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2012_2013_tl-q4-verite-en-morale.pdf)
 - Documents utilisés et documents complémentaires [(lien)](https://docs.google.com/folder/d/0B1WGm8LGlYXzREJnNWhVUU9IWTA/edit)
   - Tableau de distinctions : impératif hypothétique / impératif catégorique [(lien)](https://docs.google.com/drawings/d/16vkmZlhqH4FSa2a0_q5ydVDxfk2XHe8NFtYj88IIfJ4/edit?usp=sharing)
   - Critique de l'appel à la nature dans les jugements de valeur [(lien)](https://docs.google.com/document/d/1xrfk96zu-HSxzCzZ9kmFYnNz3i9jOc4tRjWUTll6Xwo/edit?usp=sharing)
@@ -115,7 +115,7 @@ Je reprends sur ce site les documents publiés sur d'anciens blogs.
 ## 2010-2011
 
 - Cours sur la morale et le devoir : notes de cours d'une élève [(lien)](https://docs.google.com/document/d/1hoY9dW1iHJxBuu6AV3hReNoNVGYRTk1gKWcUdBoFJng/edit?usp=sharing)
-- Fiche de révision sur la morale et le devoir [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2010_2011_revision-morale_devoir.pdf)
+- Fiche de révision sur la morale et le devoir [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2010_2011_revision-morale_devoir.pdf)
 
 ### – Quelle est l’origine de nos croyances morales ?
 
@@ -138,42 +138,42 @@ Je reprends sur ce site les documents publiés sur d'anciens blogs.
 
 ## 2009-2010
 
-- Avons-nous des devoirs envers les animaux ? : discussion avec les élèves [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2009_2010_devoirs_envers_animaux_discussion_eleves.pdf)
+- Avons-nous des devoirs envers les animaux ? : discussion avec les élèves [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2009_2010_devoirs_envers_animaux_discussion_eleves.pdf)
 
 ## 2008-2009
 
-  - L'utilitarisme de Bentham : deux extraits de l'_Introduction aux principes de la morale et de la législation_ [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2008_2009_bentham_texte.pdf)
+  - L'utilitarisme de Bentham : deux extraits de l'_Introduction aux principes de la morale et de la législation_ [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2008_2009_bentham_texte.pdf)
 
 ## 2007-2008
 
-- Ancienne page web du cours [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_cours_morale_devoir.pdf)
+- Ancienne page web du cours [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_cours_morale_devoir.pdf)
 - Documents utilisés dans ce cours :
-  - Compte rendu de plusieurs procès d'animaux au Moyen-Âge [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_proces_animaux.pdf)
-  - L'anneau de Gygès [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_gyges.pdf)
-  - Quiz sur la morale et le devoir [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_S_quiz.pdf)
-  - Critique des morales de l'autorité : John Stuart Mill contre les morales fondées sur un appel à la nature, Léo Strauss contre les morales fondées sur un appel aux coutumes et au droit positif, Pierre Blackburn contre les morales fondées sur un commandement divin [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_morales_autorite.pdf)
-  - Critique des arguments qui font appel à la nature dans les débats moraux [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_critiques_naturel.pdf)
-  - Texte de Peter Singer : « Riches et pauvres » [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_psinger_texte.pdf)
-  - Fiche de lecture sur ce texte [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_psinger_fiche_lecture.pdf)
-  - Rich Cameron : objections et réponses possibles à l'argument de Peter Singer [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_cameron_famine-replies.pdf)
+  - Compte rendu de plusieurs procès d'animaux au Moyen-Âge [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_proces_animaux.pdf)
+  - L'anneau de Gygès [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_gyges.pdf)
+  - Quiz sur la morale et le devoir [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_S_quiz.pdf)
+  - Critique des morales de l'autorité : John Stuart Mill contre les morales fondées sur un appel à la nature, Léo Strauss contre les morales fondées sur un appel aux coutumes et au droit positif, Pierre Blackburn contre les morales fondées sur un commandement divin [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_morales_autorite.pdf)
+  - Critique des arguments qui font appel à la nature dans les débats moraux [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_critiques_naturel.pdf)
+  - Texte de Peter Singer : « Riches et pauvres » [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_psinger_texte.pdf)
+  - Fiche de lecture sur ce texte [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_psinger_fiche_lecture.pdf)
+  - Rich Cameron : objections et réponses possibles à l'argument de Peter Singer [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_cameron_famine-replies.pdf)
 
 
 ## 2006-2007
 
-- Arguments sur le sujet « À quoi bon agir moralement ? » [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2006_2007_agir_moralement.pdf)
-- Proposition de plan pour le sujet « Faut-il consulter sa raison pour bien agir ? » [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2006_2007_consulter_raison_bien_agir.pdf)
+- Arguments sur le sujet « À quoi bon agir moralement ? » [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2006_2007_agir_moralement.pdf)
+- Proposition de plan pour le sujet « Faut-il consulter sa raison pour bien agir ? » [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2006_2007_consulter_raison_bien_agir.pdf)
 
 ## 2005-2006
 
-- La morale : fiche récapitulative du cours [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2005_2006_fiche_recapitulative_morale.pdf)
-- Exercices sur la notion de jugement moral et sur les normes et les valeurs [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2005_2006_exercices_morale.pdf)
-- Texte de Kant sur la distinction entre les impératifs hypothétiques et les impératifs catégoriques [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2005_2006_kant_texte.pdf)
-- Élements d’explication de ce texte [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2005_2006_kant_explication.pdf)
-- Schéma de la distinction entre impératifs hypothétiques et impératifs catégoriques [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2005_2006_kant_schema.pdf)
-- Texte d’Ayer pour la deuxième partie du cours : « Y a-t-il une vérité en morale ? » [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2005_2006_ayer_texte.pdf)
-- Fiche pour guider l’analyse du texte d’Ayer [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2005_2006_ayer_fiche.pdf)
-- Les arguments en faveur de l’émotivisme [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2005_2006_emotivisme_arguments.pdf)
-- Les objections contre l’émotivisme [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2005_2006_emotivisme_objections.pdf)
-- Texte complémentaire : texte de Hume sur l'émotivisme [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2005_2006_emotivisme_hume.pdf)
-- Schéma des principales théories éthiques [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2005_2006_theories_ethiques_schema.pdf)
-- Texte de Rawls pour travailler plus spécifiquement les morales de type kantien [(lien)](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2005_2006_rawls_texte.pdf)
+- La morale : fiche récapitulative du cours [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2005_2006_fiche_recapitulative_morale.pdf)
+- Exercices sur la notion de jugement moral et sur les normes et les valeurs [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2005_2006_exercices_morale.pdf)
+- Texte de Kant sur la distinction entre les impératifs hypothétiques et les impératifs catégoriques [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2005_2006_kant_texte.pdf)
+- Élements d’explication de ce texte [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2005_2006_kant_explication.pdf)
+- Schéma de la distinction entre impératifs hypothétiques et impératifs catégoriques [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2005_2006_kant_schema.pdf)
+- Texte d’Ayer pour la deuxième partie du cours : « Y a-t-il une vérité en morale ? » [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2005_2006_ayer_texte.pdf)
+- Fiche pour guider l’analyse du texte d’Ayer [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2005_2006_ayer_fiche.pdf)
+- Les arguments en faveur de l’émotivisme [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2005_2006_emotivisme_arguments.pdf)
+- Les objections contre l’émotivisme [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2005_2006_emotivisme_objections.pdf)
+- Texte complémentaire : texte de Hume sur l'émotivisme [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2005_2006_emotivisme_hume.pdf)
+- Schéma des principales théories éthiques [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2005_2006_theories_ethiques_schema.pdf)
+- Texte de Rawls pour travailler plus spécifiquement les morales de type kantien [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2005_2006_rawls_texte.pdf)
