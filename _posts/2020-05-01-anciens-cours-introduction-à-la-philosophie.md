@@ -83,5 +83,5 @@ Je reprends sur ce site les documents publiés sur d'anciens blogs.
 - Récapitulatif sur le texte de Pierre Hadot [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/0_Introduction_philosophie/2005-2006-hadot_recapitulatif.pdf)
 - Contrôle de connaissance sur Socrate et le texte de Pierre Hadot [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/0_Introduction_philosophie/2005-2006-controle_socrate_hadot.pdf)
 - Un texte de Mary Midgley, qui compare la philosophie et la plomberie [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/0_Introduction_philosophie/2005-2006-philosophical_plumbing.pdf)
-  - Un extrait plus étendu, et une traduction plus récente sont disponibles sur ce blog : [La philosophie, c'est comme la plomberie](https://eyssette.github.io/blog/posts/la-philosophie-c-est-comme-la-plomberie/)
+  - Un extrait plus étendu, et une traduction plus récente sont disponibles sur ce blog : [La philosophie, c'est comme la plomberie](https://eyssette.github.io/in-a-nutshell/introduction%20%C3%A0%20la%20philosophie/2021/04/27/la-philosophie-c-est-comme-la-plomberie.html)
 - Un texte de Moritz Schlick, sur la philosophie comme recherche du sens et sur Socrate [(lien)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/0_Introduction_philosophie/2005-2006-schlick_texte.pdf)
